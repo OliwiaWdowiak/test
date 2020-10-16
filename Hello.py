@@ -1,8 +1,6 @@
 print("hello")
 print("goodbye")
-
 print('such a nice day')
-
 print('aaa')
-
 print ('bbb')
+print('Ala ma kota')
